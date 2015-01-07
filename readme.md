@@ -1,4 +1,4 @@
-#Página de Iván Barbosa
+#Iván Barbosa
 
 Prueba de página principal
 
